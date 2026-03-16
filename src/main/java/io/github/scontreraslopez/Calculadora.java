@@ -138,7 +138,7 @@ public class Calculadora {
      */
     public int redondearDefecto(double d) {
         int result = (int) d;
-        if (d < 0) {
+        if (d < result) {
             result--;
         }
         return result;

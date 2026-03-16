@@ -35,9 +35,18 @@ Este proyecto sirve como punto de partida para explicar:
 
 ---
 
+## Ramas del repositorio
+
+Este repositorio cuenta con dos ramas:
+
+- **`main`** — contiene el código de andamiaje: la clase `Calculadora` implementada y la clase de test vacía (o parcialmente completada) que el alumno debe rellenar.
+- **`solution`** — contiene una propuesta de solución completa con los tests ya escritos. Está pensada como referencia para el instructor o como recurso de desbloqueo para el alumno si se queda atascado.
+
+---
+
 ## Tecnologías
 
-- Java 17+
+- Java 21
 - Gradle (Kotlin DSL)
 - JUnit 5
 
