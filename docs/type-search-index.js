@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"io.github.scontreraslopez","l":"Calculadora"},{"p":"io.github.scontreraslopez","l":"Main"},{"p":"io.github.scontreraslopez","l":"Calculadora.Operacion"}];updateSearchResults();
